@@ -2,8 +2,6 @@
 
 # $\rm{[MindSpore-phase2]}$ $Deep Fourier Upsampling$
 
-English | [简体中文](https://github.com/MCG-NKU/E2FGVI/blob/master/README_zh-CN.md)
-
 本项目包含了以下论文的mindspore实现：
 
 > **Deep Fourier Up-sampling**
